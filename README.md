@@ -9,7 +9,7 @@ The Random Quote Generator is a simple yet inspiring web application that displa
 
 ✨ Features
 Generates a random quote at the click of a button
-Displays the author's name (if available)
+Displays the author's name 
 Clean and responsive user interface
 Option to generate a new quote instantly
 
@@ -33,9 +33,10 @@ Enjoy endless inspiration and motivation!
 
 
 ## 🚀 Live Demo  
-🔗 [Visit the Website](https://form-validation-pi-vert.vercel.app/)
+🔗 [Visit the Website](https://random-quote-generator-app-seven.vercel.app/)
 
 ![Project Preview](./images/img2.png)
+
 ![Project Preview](./images/img3.png)
 
 
